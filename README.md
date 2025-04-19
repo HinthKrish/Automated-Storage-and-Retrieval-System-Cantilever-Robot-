@@ -1,4 +1,4 @@
-# Automated-Storage-and-Retrieval-System-Cantilever-Robot-
+# Automated Storage and Retrieval System (Cantilever Robot)
 
 Objective
 To design and fabricate a compact and efficient automated system that can store and retrieve items with minimal human intervention, enabling faster, safer, and smarter inventory handling.
